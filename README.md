@@ -27,9 +27,13 @@ This is a simple and fun number guessing game built in Python. The game prompts 
    git clone https://github.com/yourusername/guessing-game.git
 
 2. **Navigate to the Directory:**
+   
+   ```bash
    cd guessing-game
-3. **Run the Game:**
+4. **Run the Game:**
    Make sure you have Python installed, then run:
+
+   ```bash
    python guessing_game.py
 
 ## Usage
